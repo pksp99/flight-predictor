@@ -1,0 +1,13 @@
+﻿For former flight: ,,,,,,,,,,
+Airline,Date (MM/DD/YYYY),Origin Airport,"Destination
+ Airport",Scheduled departure time,Scheduled Arrival Time,Day of the week,weather_info,Actual Arrival Time - Predictor,,
+,,,,,,,,,,
+For latter flight:,,,,,,,,,,
+Airline,Date (MM/DD/YYYY),Origin Airport,"Destination
+ Airport",Scheduled departure time,Scheduled Arrival Time,Day of the week,weather_info,Former flight arrival time status,Actual Arrival Time - Predictor,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
