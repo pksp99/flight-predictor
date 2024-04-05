@@ -1,3 +1,23 @@
 .ipynb_checkpoints/
 dataset/weather_data/other/
 dataset/weather_data/.DS_Store
+.DS_Store
+dataset/.DS_Store
+dataset/T_ONTIME_MARKETING.csv
+dataset/aa_22_jan_syrdest.csv
+dataset/aa_dest_syr.csv
+dataset/bts_data/.DS_Store
+dataset/bts_data/august_2022.csv
+dataset/bts_data/december_2022.csv
+dataset/bts_data/filtered_jan2022_to_december2023_bts copy.csv
+dataset/bts_data/july_2022.csv
+dataset/bts_data/july_to_december_2022_bts.csv
+dataset/bts_data/november_2022.csv
+dataset/bts_data/october_2022.csv
+dataset/bts_data/september_2022.csv
+dataset/bts_data/zip/
+dataset/merged_flight_weather_hourly_2022_2023 copy.csv
+dataset/merged_flight_weather_hourly_2022_2023_filtered_final_for_training.csv
+dataset/parth_testing.zip
+dataset/weather_data/merged_weather_hourly_2022_to_2023 copy.csv
+dataset/weather_data/merged_weather_hourly_2022_to_2023_filtered_columns.csv
